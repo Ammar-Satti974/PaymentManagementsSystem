@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rauffamm\\source\\repos\\PaymentsSystemAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EAA70DD-B494-4CED-8609-7B37709379DC}|PaymentsSystemAPI\\PaymentsSystemAPI.csproj|c:\\users\\rauffamm\\source\\repos\\paymentssystemapi\\paymentssystemapi\\controllers\\paymentdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EAA70DD-B494-4CED-8609-7B37709379DC}|PaymentsSystemAPI\\PaymentsSystemAPI.csproj|solutionrelative:paymentssystemapi\\controllers\\paymentdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EAA70DD-B494-4CED-8609-7B37709379DC}|PaymentsSystemAPI\\PaymentsSystemAPI.csproj|c:\\users\\rauffamm\\source\\repos\\paymentssystemapi\\paymentssystemapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EAA70DD-B494-4CED-8609-7B37709379DC}|PaymentsSystemAPI\\PaymentsSystemAPI.csproj|solutionrelative:paymentssystemapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EAA70DD-B494-4CED-8609-7B37709379DC}|PaymentsSystemAPI\\PaymentsSystemAPI.csproj|c:\\users\\rauffamm\\source\\repos\\paymentssystemapi\\paymentssystemapi\\paymentssystemapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2EAA70DD-B494-4CED-8609-7B37709379DC}|PaymentsSystemAPI\\PaymentsSystemAPI.csproj|solutionrelative:paymentssystemapi\\paymentssystemapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PaymentDetailsController.cs",
+              "DocumentMoniker": "C:\\Users\\rauffamm\\source\\repos\\PaymentsSystemAPI\\PaymentsSystemAPI\\Controllers\\PaymentDetailsController.cs",
+              "RelativeDocumentMoniker": "PaymentsSystemAPI\\Controllers\\PaymentDetailsController.cs",
+              "ToolTip": "C:\\Users\\rauffamm\\source\\repos\\PaymentsSystemAPI\\PaymentsSystemAPI\\Controllers\\PaymentDetailsController.cs",
+              "RelativeToolTip": "PaymentsSystemAPI\\Controllers\\PaymentDetailsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T11:06:35.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaymentsSystemAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\rauffamm\\source\\repos\\PaymentsSystemAPI\\PaymentsSystemAPI\\PaymentsSystemAPI.csproj",
+              "RelativeDocumentMoniker": "PaymentsSystemAPI\\PaymentsSystemAPI.csproj",
+              "ToolTip": "C:\\Users\\rauffamm\\source\\repos\\PaymentsSystemAPI\\PaymentsSystemAPI\\PaymentsSystemAPI.csproj",
+              "RelativeToolTip": "PaymentsSystemAPI\\PaymentsSystemAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-28T11:00:55.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rauffamm\\source\\repos\\PaymentsSystemAPI\\PaymentsSystemAPI\\Program.cs",
+              "RelativeDocumentMoniker": "PaymentsSystemAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\rauffamm\\source\\repos\\PaymentsSystemAPI\\PaymentsSystemAPI\\Program.cs",
+              "RelativeToolTip": "PaymentsSystemAPI\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T09:45:36.536Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
